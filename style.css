@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 50px;
+    position: absolute;
+    left: 50%;
+    top: -5%;
+    transform: translate(-50%);
+}
+
+.header {
+    position: absolute;
+    left: 50%;
+    top: 250px;
+    transform: translate(-50%, -50%);
+}
+
+.hobby {
+    font-family: 'Song Myung', serif;
+}
+.good {
+    font-family: 'Song Myung', serif;
+}
